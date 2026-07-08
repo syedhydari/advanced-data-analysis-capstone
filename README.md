@@ -9,7 +9,7 @@
 - **Institution:** Columbia University
 - **Project Type:** Graduate capstone
 - **Authors:** Syed Bashir Hydari and Mykola Kishmar
-- **Research Area:** Kelly Criterion, portfolio optimization, estimation risk, regime conditioning, and Sharpe-ratio inference
+- **Research Area:** Kelly Criterion, portfolio optimization, estimation risk, regime conditioning, and Sharpe-ratio inference/power analysis
 
 ## Overview
 
