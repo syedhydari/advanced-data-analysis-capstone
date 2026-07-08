@@ -32,6 +32,6 @@ The central finding is that the binding constraint is **mean-estimation noise**,
 
 The strongest strategy is the fully stacked **Combined** variant, which applies shrinkage to regime-filtered data. It achieves a net Sharpe of 0.66, compared with 0.46 for long-only minimum variance and 0.09 for naive plug-in Kelly.
 
-## Note
+## Reproducibility Note
 
-This repository contains selected academic materials from a Columbia R&FM capstone project. It is not investment advice and does not contain production trading infrastructure.
+This repository contains the final written report and selected academic materials. The original QMD/RMD analysis file is available upon reasonable request; a cleaned public reproduction file may be added later. Note, it is not investment advice and does not contain production trading infrastructure.
