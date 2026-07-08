@@ -7,7 +7,7 @@
 - **Date:** Spring 2026
 - **Course:** STAT GR 5291 — Capstone: R&FM Track
 - **Institution:** Columbia University
-- **Project Type:** Graduate capstone / advanced data analysis project
+- **Project Type:** Graduate capstone
 - **Authors:** Syed Bashir Hydari and Mykola Kishmar
 - **Research Area:** Kelly Criterion, portfolio optimization, estimation risk, regime conditioning, and Sharpe-ratio inference
 
