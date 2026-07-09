@@ -1,6 +1,6 @@
 # Stabilizing Kelly | R&FM Capstone
 
-**Spring 2026 — STAT GR 5291 Capstone: R&FM Track / Advanced Data Analysis:** Columbia graduate capstone on stabilizing Kelly portfolio optimization under estimation risk using shrinkage, regime conditioning, and Sharpe-ratio detection-boundary analysis.
+**Spring 2026 — STAT GR 5291 Advanced Data Analysis / Capstone: R&FM Track:** Columbia graduate capstone on stabilizing Kelly portfolio optimization under estimation risk using shrinkage, regime conditioning, and Sharpe-ratio detection-boundary analysis.
 
 ## Project Context
 
