@@ -35,3 +35,12 @@ The strongest strategy is the fully stacked **Combined** variant, which applies 
 ## Reproducibility Note
 
 This repository contains the final written report and selected academic materials. The original QMD/RMD analysis file is available upon reasonable request; a cleaned public reproduction file may be added later. Note, it is not investment advice and does not contain production trading infrastructure.
+
+## Intellectual Property Notice
+
+Copyright © 2026 Syed Bashir Hydari. All rights reserved.
+
+This repository is publicly accessible for inspection and portfolio
+evaluation only. No permission is granted to reproduce, modify, implement,
+distribute, commercialize, or create derivative works from its contents.
+See [LICENSE.md].
